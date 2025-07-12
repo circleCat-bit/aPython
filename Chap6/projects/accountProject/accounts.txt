@@ -1,0 +1,3 @@
+password = {"themanwhosenameisblanking@gmail.com" : "Meomeomeo123!",
+            "24103624@phenikaa-uni.edu.vn": "Meomeomeo123!",
+            "mimimi@lukas.com": "Mitsubishi1
